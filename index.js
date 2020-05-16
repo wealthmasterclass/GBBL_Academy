@@ -20,7 +20,7 @@ window.onbeforeunload = function () {
 //   }, 3000);
 // }
 // startTimer();
-document.getElementById("apply").onclick = function getin() {
+document.getElementById("apply").onclick = function getIn() {
     location.href = "https://forms.gle/LfLyG44LSXq4pwwd8";
 }
-getin();
+
