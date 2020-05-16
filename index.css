@@ -24,9 +24,9 @@ body {
 }
 
 #content {
-    width: 100vw;
+    width: 80vw;
     height: 100vh;
-    margin-top: 50px;
+    margin-top: 45px;
     margin-left: 100px;
     margin-right: 100px;
 }
