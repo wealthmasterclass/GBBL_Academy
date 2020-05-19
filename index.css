@@ -36,9 +36,9 @@ img  {
     border-bottom-right-radius: 25px;
     border-top-left-radius: 25px;
     border-top-right-radius: 25px;
-    border-color: skyblue;
-    background-color: white;
-    color: rgba(0, 0, 255, 0.7);
+    border-color: rgb(101, 214, 56);
+    background-color: rgb(101, 214, 56);
+    color: white;
     font-weight: bold;
     margin-left: 250px;
     margin-right: 250px;
