@@ -9,18 +9,10 @@ body {
    /* color: rgba(255, 255, 255, 0.808); */
 }
 
-.first {
-    text-align: center;
-    font-size: 30px;
-    /* text-decoration: underline; */
-    margin-bottom: 0px;
-}
-
-#main {
-    margin-top: 0px;
-    font-size: 20px;
-    /* text-decoration: underline; */
-    text-align: center;
+img  {
+    margin-top: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
 }
 
 #content {
